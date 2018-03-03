@@ -108,7 +108,7 @@ public class GUIPlayer3 extends GUI {
             public void run() {
 
                 //     int Think = (new Random()).nextInt((int)displaySetting.limitTime.getValue() + 4);
-                int Think = (new Random()).nextInt(1);
+                int Think = (new Random()).nextInt(10);
                 int cnt = 0;
                 while (!ShutDown) {
                     if (!Game.Pause) {

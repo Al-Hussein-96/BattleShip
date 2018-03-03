@@ -3,27 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/latest%20version/src/Model/InfoGame.java</file>
-            <file>file:/D:/latest%20version/src/Model/InfoMove.java</file>
-            <file>file:/D:/latest%20version/src/Model/Player.java</file>
-            <file>file:/D:/latest%20version/src/View/view.java</file>
-            <file>file:/D:/latest%20version/src/latest/version/LatestVersion.java</file>
-            <file>file:/D:/latest%20version/src/Controller/controller.java</file>
-            <file>file:/D:/latest%20version/src/View/Win.java</file>
-            <file>file:/D:/latest%20version/src/View/PublicMethod.java</file>
-            <file>file:/D:/latest%20version/src/Model/SaveData.java</file>
-            <file>file:/D:/latest%20version/src/View/GUIPlayer2.java</file>
-            <file>file:/D:/latest%20version/src/View/LoadGame.java</file>
-            <file>file:/D:/latest%20version/src/View/CountDown.java</file>
-            <file>file:/D:/latest%20version/src/Model/ResourceManager.java</file>
-            <file>file:/D:/latest%20version/src/Model/BattleshipPlayer.java</file>
-            <file>file:/D:/latest%20version/src/View/GUIPlayer3.java</file>
-            <file>file:/D:/latest%20version/src/Model/BattleshipGame.java</file>
-            <file>file:/D:/latest%20version/src/Model/model.java</file>
-            <file>file:/D:/latest%20version/src/Model/Scoring.java</file>
-            <file>file:/D:/latest%20version/src/Model/RandomComputerPlayer.java</file>
-            <file>file:/D:/latest%20version/src/View/SaveGame.java</file>
-            <file>file:/D:/latest%20version/src/Model/SaveInfo.java</file>
+            <file>file:/D:/ITE%202017/مشروع%20جافا/BattleShip/latest%20version/src/View/InitializeShipOnBoard.java</file>
+            <file>file:/D:/ITE%202017/مشروع%20جافا/BattleShip/latest%20version/src/View/GUIPlayer3.java</file>
+            <file>file:/D:/ITE%202017/مشروع%20جافا/BattleShip/latest%20version/src/View/GUIPlayer1.java</file>
         </group>
     </open-files>
 </project-private>
