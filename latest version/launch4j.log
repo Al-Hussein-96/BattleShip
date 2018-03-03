@@ -1,0 +1,30 @@
+
+
+Version:	3.10
+CmdLine:	D:\latest version\BattleShip.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\latest version\.
+Java min ver:	1.0.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_112
+Check launcher:	C:\Program Files\Java\jre1.8.0_112\bin\javaw.exe (OK)
+Match:		1.8.0_112
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_144
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (OK)
+Match:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_144
+Ignore:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_144 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe
+Launcher args:	-jar "D:\latest version\BattleShip.exe"
+Args length:	39/32768 chars
+Exit code:	0
